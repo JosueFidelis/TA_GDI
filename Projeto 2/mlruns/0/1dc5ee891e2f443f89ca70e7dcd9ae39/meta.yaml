@@ -1,0 +1,15 @@
+artifact_uri: file:///home/josue/Documentos/TA_GDI/Projeto%202/mlruns/0/1dc5ee891e2f443f89ca70e7dcd9ae39/artifacts
+end_time: 1605638190434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1dc5ee891e2f443f89ca70e7dcd9ae39
+run_uuid: 1dc5ee891e2f443f89ca70e7dcd9ae39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1605638189912
+status: 3
+tags: []
+user_id: josue
